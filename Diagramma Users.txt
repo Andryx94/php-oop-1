@@ -1,0 +1,10 @@
+nome - stringa - VARCHAR(30)
+cognome - stringa - VARCHAR(30)
+data_di_nascita - data - DATE
+username - stringa - VARCHAR(30)
+password - stringa - VARCHAR(30)
+email - stringa - VARCHAR(30)
+data_registrazione - data - DATE
+messaggi_inviati - numero - INT
+online - numero - TINYINT
+ultimo_accesso - data - DATETIME
